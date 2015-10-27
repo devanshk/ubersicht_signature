@@ -7,7 +7,7 @@ Assert your stake over your laptop with a bit of customization.
 
 Easily enter in your own name
 <p align="center">
-  <img src="http://i66.tinypic.com/2v9w22x.png"/>
+  <img src="http://i66.tinypic.com/2jfay4w.png"/>
 </p>
 
 Tweak fonts, colors, and shadows
