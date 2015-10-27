@@ -1,7 +1,5 @@
-# Ubersicht Signature
-Add your name to your desktop!
-
-##Screenshots
+#Signature Widget
+Assert your dominance over your laptop with a bit of customization.
 
 <p align="center">
   <img src="http://oi63.tinypic.com/2ugihd4.jpg"/>
