@@ -12,5 +12,5 @@ Easily enter in your own name
 
 Tweak fonts, colors, and shadows
 <p align="center">
-  <img src="http://i66.tinypic.com/vi0ggm.png"/>
+  <img src="http://i63.tinypic.com/2hh18qb.png"/>
 </p>
